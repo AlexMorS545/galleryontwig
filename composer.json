@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/galleryontwig",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "morsan20@yandex.ru"
+    }
+  ],
+  "require": {
+    "twig/twig": "v2.0.0"
+  }
+}
